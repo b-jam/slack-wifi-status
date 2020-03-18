@@ -12,7 +12,7 @@ SLACK_TOKEN = ""
 LOCATION_CONFIG = {
     "DEFAULT": {"status_text": "Working remotely", "status_emoji": ":house_with_garden:"},
     "CSGUEST": {"status_text": "At Customs", "status_emoji": ":customsnz:"},
-    "ssn": {"status_text": "At Customs", "status_emoji": ":pride-sprout:"},
+    "ssn": {"status_text": "At Springload", "status_emoji": ":pride-sprout:"},
 }
 
 
